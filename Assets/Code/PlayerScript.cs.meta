@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4009ee7728f66c543bb102352aa26f23
+timeCreated: 1542503050
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - AiBot: {fileID: 1837746330632808, guid: 9a3ddfca52127ef4784a35f10233b64e, type: 2}
+  - PopulationBot: {fileID: 1257786567028894, guid: 71adbb23d59b6dd40b94e8519f08ba03,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
